@@ -79,3 +79,6 @@ flutter run
 - Experiência simples e intuitiva  
 
 ---
+
+##  Prints
+- Estão na pasta "assets"
