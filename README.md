@@ -41,7 +41,7 @@ Recriar o quiz desenvolvido anteriormente, agora utilizando Flutter, com foco em
 
 1. Clone o repositório:
 ```bash
-git clone 
+git clone https://github.com/dudamssr/formulario_sociologia.git
 ```
 
 2. Acesse a pasta:
