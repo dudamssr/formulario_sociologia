@@ -1,0 +1,132 @@
+[
+  {
+    "id": 1,
+    "pergunta": "Segundo Foucault, a principal transformação nas formas de punição, a partir do século XVIII, foi:",
+    "imagem": "assets/images/foucalt.png",
+    "alternativas": [
+      "O aumento das execuções públicas.",
+      "A substituição da tortura por punições psicológicas e disciplinares.",
+      "A extinção das prisões.",
+      "O retorno das punições religiosas.",
+      "O abandono da vigilância."
+    ],
+    "respostaCorreta": 1
+  },
+  {
+    "id": 2,
+    "pergunta": "De acordo com Foucault, a prisão moderna tem como principal função:",
+    "imagem": "assets/images/foucalt.png",
+    "alternativas": [
+      "Apenas castigar o criminoso.",
+      "Expor o condenado à sociedade.",
+      "Controlar e disciplinar os indivíduos.",
+      "Eliminar os indivíduos perigosos.",
+      "Garantir a igualdade social."
+    ],
+    "respostaCorreta": 2
+  },
+  {
+    "id": 3,
+    "pergunta": "O conceito de panoptismo refere-se:",
+    "imagem": "assets/images/foucalt.png",
+    "alternativas": [
+      "Ao uso da força física para controlar os indivíduos.",
+      "À vigilância constante como forma de controle social.",
+      "À ausência de punição na modernidade.",
+      "À liberdade total nas instituições.",
+      "À descentralização do poder."
+    ],
+    "respostaCorreta": 1
+  },
+  {
+    "id": 4,
+    "pergunta": "Segundo Foucault, instituições como escola, hospital, quartel e fábrica:",
+    "imagem": "assets/images/foucalt.png",
+    "alternativas": [
+      "Funcionam independentemente da lógica do poder.",
+      "Promovem apenas o conhecimento e a saúde.",
+      "Reproduzem mecanismos de vigilância e disciplina.",
+      "Garantem autonomia total aos indivíduos.",
+      "Eliminam as desigualdades sociais."
+    ],
+    "respostaCorreta": 2
+  },
+  {
+    "id": 5,
+    "pergunta": "Para Foucault, o poder na sociedade moderna:",
+    "imagem": "assets/images/foucalt.png",
+    "alternativas": [
+      "Está concentrado apenas no Estado.",
+      "Existe apenas nas leis.",
+      "Está presente nas relações cotidianas e instituições sociais.",
+      "Desapareceu com a modernidade.",
+      "Está somente nas prisões."
+    ],
+    "respostaCorreta": 2
+  },
+  {
+    "id": 6,
+    "pergunta": "A ideia de sociedade disciplinar está relacionada:",
+    "imagem": "assets/images/foucalt.png",
+    "alternativas": [
+      "À ausência de controle social.",
+      "Ao predomínio da violência física.",
+      "À organização da sociedade por meio de normas, vigilância e disciplina.",
+      "Ao fim das punições.",
+      "Ao controle exclusivo da religião."
+    ],
+    "respostaCorreta": 2
+  },
+  {
+    "id": 7,
+    "pergunta": "Segundo Foucault, o objetivo da punição moderna é:",
+    "imagem": "assets/images/foucalt.png",
+    "alternativas": [
+      "Provocar sofrimento público.",
+      "Corrigir comportamentos e tornar os indivíduos úteis.",
+      "Apenas afastar o criminoso da sociedade.",
+      "Produzir medo por meio de torturas.",
+      "Eliminar o crime definitivamente."
+    ],
+    "respostaCorreta": 1
+  },
+  {
+    "id": 8,
+    "pergunta": "O modelo do panóptico foi inspirado em um projeto de prisão ideal, criado por:",
+    "imagem": "assets/images/foucalt.png",
+    "alternativas": [
+      "Karl Marx.",
+      "Max Weber.",
+      "Jeremy Bentham.",
+      "Émile Durkheim.",
+      "Thomas Hobbes."
+    ],
+    "respostaCorreta": 2
+  },
+  {
+    "id": 9,
+    "pergunta": "Segundo Foucault, a vigilância moderna funciona melhor porque:",
+    "imagem": "assets/images/foucalt.png",
+    "alternativas": [
+      "É visível e violenta.",
+      "Está presente somente nas prisões.",
+      "Os indivíduos passam a se autocontrolar por se sentirem observados.",
+      "Não depende de instituições.",
+      "É exercida apenas pelo governo."
+    ],
+    "respostaCorreta": 2
+  },
+  {
+    "id": 10,
+    "pergunta": "Foucault afirma que a prisão pode produzir criminosos porque:",
+    "imagem": "assets/images/foucalt.png",
+    "alternativas": [
+      "Não existe controle dentro dela.",
+      "Reforça identidades criminais e relações entre infratores.",
+      "Os presos não aprendem leis.",
+      "A punição é inexistente.",
+      "Não há vigilância."
+    ],
+    "respostaCorreta": 1
+  }
+]
